@@ -5,17 +5,21 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -----Cel-----
 
--Fixed the coloration of the active roll bottomcaps as there were very strong mismatches.
-
 -Redrew the hold bottomcaps so they aren't jagged and better match the bodies.
+
+-Fixed the coloration of the active roll bottomcaps as there were very strong mismatches.
 
 -----Cyber-----
 
 -Made all hold graphics tile more invisibly. They're not perfect as the gradients are exceptionally hard to match and make them have the feel of the originals, but it's way less noticeable.
 
+-The same active roll bottomcap fix as Cel as they use the same roll graphics.
+
 -----Enchantment-----
 
 -Fixed the mines so they aren't invading each other's space so you no longer see pieces of others flop in and cleaned up the graphical cutoff where bits were rotated outside the boundary of the image. There was also some odd buggy misalignment on a few frames that I cleaned up.
+
+-Adjusted some bits of the active roll bottomcap to better match colors.
 
 -----Metal-----
 
