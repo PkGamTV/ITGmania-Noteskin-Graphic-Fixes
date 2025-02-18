@@ -7,6 +7,8 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -Redrew the hold bottomcaps so they aren't jagged and better match the bodies.
 
+-Moved the bottomcaps up two pixels to match Metal's. (It's more accurate to when a hold ends when it overlaps the reeptors.)
+
 -Fixed the hold's slight gradient mismatches at the top loop point.
 
 -Fixed the coloration of the active roll bottomcaps as there were very strong mismatches.
@@ -21,7 +23,7 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -Fixed the mines so they aren't invading each other's space so you no longer see pieces of others flop in and cleaned up the graphical cutoff where bits were rotated outside the boundary of the image. There was also some odd buggy misalignment on a few frames that I cleaned up.
 
--Adjusted some bits of the active roll bottomcap to better match colors.
+-Better matched the colors of the active roll bottomcap.
 
 -----Metal-----
 
