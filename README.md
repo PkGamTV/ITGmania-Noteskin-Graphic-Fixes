@@ -7,6 +7,8 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -Redrew the hold bottomcaps so they aren't jagged and better match the bodies.
 
+-Fixed hold's slight radient mismatches at the top loop point.
+
 -Fixed the coloration of the active roll bottomcaps as there were very strong mismatches.
 
 -----Cyber-----
@@ -24,6 +26,8 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 -----Metal-----
 
 -Better matched the colors of the hold bottomcaps.
+
+-Fixed hold's slight radient mismatches at the top loop point like Cel too.
 
 -Mirrored the hold bottomcaps horizontally so the lighting doesn't look off.
 
