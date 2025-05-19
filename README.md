@@ -29,7 +29,7 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -----Flat-----
 
--Maybe add Flat to complete the ITG noteskin lineup? It's needed for official course functionality and all. Though it is a very unused noteskin. Skyblader07's "Alpha" noteskin pack was a big help here as I didn't know how to do a fallback. But his Flat was set up for it using some commonly used code for noteskins. So I just tweaked it's fallback to point towards Metal and it worked.
+-Maybe add Flat to complete the ITG noteskin lineup? It's needed for official course functionality and all. Though it is a very unused noteskin. Skyblader07's "Alpha" noteskin pack was a big help here as I didn't know how to do a fallback. But his Flat was set up for it using some commonly used code for noteskins. So I just tweaked it's fallback to point towards Metal and it worked. Why reinvent the wheel right?
 
 -----Metal-----
 
