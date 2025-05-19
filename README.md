@@ -23,6 +23,10 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -Better matched the colors of the active roll bottomcap.
 
+-----Flat-----
+
+-Until I learn how to do fallback code to point towards using Metal and only the red 4ths for all quantifications, I plopped the whole noteskin here.
+
 -----Metal-----
 
 -Better matched the colors of the hold bottomcaps.
@@ -32,6 +36,10 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 -The same active roll bottomcap fix as Cel as they use the same roll graphics.
 
 -Fixed the hold's slight gradient mismatches at the top loop point like Cel too.
+
+-----DDR Rainbow-----
+
+-I do not know how Meter made this so I just put the whole fallback noteskin in with the correct updated fallback code to match what ITGmania names the DDR ones, lol! But basically it will show the colors accurately by position, not quantification like note. You can see it's progress at his place here: https://github.com/Pete-Lawrence/Peters-Noteskins
 
 ====================
 
