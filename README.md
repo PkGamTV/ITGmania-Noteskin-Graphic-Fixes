@@ -17,6 +17,10 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -The same active roll bottomcap fix as Cel as they use the same roll graphics. (Note that this does not fix the bug that causes them to not glow properly. I'm at a loss why it occurs because it uses the exact same active bottomcap code as Cel and Metal but Cel and Metal work fine.)
 
+-----DDR Rainbow-----
+
+-I do not know how Meter made this so I just put the whole fallback noteskin in with the correct updated fallback code to match what ITGmania names the DDR ones, lol! But basically it will show the colors accurately by position, not quantification like Cel. You can see his place here: https://github.com/Pete-Lawrence/Peters-Noteskins
+
 -----Enchantment-----
 
 -Fixed the mines so they aren't invading each other's space so you no longer see pieces of others flop in and cleaned up the graphical cutoff where bits were rotated outside the boundary of the image. There was also some odd buggy misalignment on a few frames that I cleaned up.
@@ -32,10 +36,6 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 -The same active roll bottomcap fix as Cel as they use the same roll graphics.
 
 -Fixed the hold's slight gradient mismatches at the top loop point like Cel too.
-
------DDR Rainbow-----
-
--I do not know how Meter made this so I just put the whole fallback noteskin in with the correct updated fallback code to match what ITGmania names the DDR ones, lol! But basically it will show the colors accurately by position, not quantification like note. You can see it's progress at his place here: https://github.com/Pete-Lawrence/Peters-Noteskins
 
 ====================
 
