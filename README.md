@@ -27,6 +27,10 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -Better matched the colors of the active roll bottomcap.
 
+-----Flat-----
+
+-Maybe add Flat to complete the ITG noteskin lineup? It's needed for official course functionality and all. Though it is a very unused noteskin. Skyblader07's "Alpha" noteskin pack was a big help here as I didn't know how to do a fallback. But his Flat was set up for it using some commonly used code for noteskins. So I just tweaked it's fallback to point towards Metal and it worked.
+
 -----Metal-----
 
 -Better matched the colors of the hold bottomcaps.
@@ -36,6 +40,24 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 -The same active roll bottomcap fix as Cel as they use the same roll graphics.
 
 -Fixed the hold's slight gradient mismatches at the top loop point like Cel too.
+
+-----Robot-----
+
+-The same active roll bottomcap fix as Cel as they use the same roll graphics.
+
+-Added the white fantastic graphic and fallback explosion file from Metal.
+
+-Added the same lift code that Peter added to Metal for consistency.
+
+----Vivid-----
+
+-The same active roll bottomcap fix as Cel as they use the same roll graphics.
+
+-Added the white fantastic graphic and fallback explosion file from metal.
+
+-Copied over the arrow model as a lift model and tweaked it's code to point to the new lift stuff.
+
+-Added the same lift code that Peter added to Metal. But then needed to edit-create lift graphics from the main arrow graphics to match.
 
 ====================
 
