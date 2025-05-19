@@ -7,8 +7,6 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -Redrew the hold bottomcaps so they aren't jagged and better match the bodies.
 
--Moved the bottomcaps up two pixels to match Metal's. (It's more accurate to when a hold ends when it overlaps the reeptors.)
-
 -Fixed the hold's slight gradient mismatches at the top loop point.
 
 -Fixed the coloration of the active roll bottomcaps as there were very strong mismatches.
