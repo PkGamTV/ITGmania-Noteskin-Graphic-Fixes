@@ -1,7 +1,7 @@
 # ITGmania-Noteskin-Graphic-Fixes
 Fix those oddball graphics!
 
-So I have been working on the noteskins in my ITGMania (https://www.itgmania.com/) to get them as graphically polished as possible. Sort of like a personal challenge that also scratches the itch of wanting to clean up the imperfections. This gave me the idea to plop them on github for everyone's use if they would like to do so as well. I set these up with default names so you can just drag and drop them in the Noteskins>Dance folder and it'll automatically replace the necessary files. But you can also pick and choose which ones you would prefer. None of the things here are essential tweaks as they are all perfectly playable as-is without these. But you can read about them below.
+So I have been working on the noteskins in my ITGMania (https://www.itgmania.com/) to get them as graphically polished as possible. Sort of like a personal challenge that also scratches the itch of wanting to clean up the imperfections. This gave me the idea to plop them on github for everyone's use if they would like to do so as well. I set these up with default names so you can just drag and drop them in the Noteskins>Dance folder and it'll automatically replace the necessary files (Edit: With the exception of ddr-rainbow now that Peter redid it. So in that case, remove that one in ITGmania first before putting them all in so there aren't any file conflicts.). But you can also pick and choose which ones you would prefer. None of the things here are essential tweaks as they are all perfectly playable as-is without these. But you can read about them below.
 
 -----Cel-----
 
