@@ -19,7 +19,7 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -----DDR Rainbow-----
 
--I do not know how Meter made this so I just put the whole fallback noteskin in with the correct updated fallback code to match what ITGmania names the DDR ones, lol! But basically it will show the colors accurately by position, not quantification like Cel. You can see his place here: https://github.com/Pete-Lawrence/Peters-Noteskins
+-I do not know how Peter made this, lol! So I just put the whole fallback noteskin in with the correct updated fallback code to match what ITGmania names the DDR ones. But basically it will show the colors accurately by position, not quantification like Cel. You can see his stuff (and the history of his DDR-Rainbow) here: https://github.com/Pete-Lawrence/Peters-Noteskins
 
 -----Enchantment-----
 
