@@ -23,10 +23,6 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -Better matched the colors of the active roll bottomcap.
 
------Flat-----
-
--Until I learn how to do fallback code to point towards using Metal and only the red 4ths for all quantifications, I plopped the whole noteskin here.
-
 -----Metal-----
 
 -Better matched the colors of the hold bottomcaps.
