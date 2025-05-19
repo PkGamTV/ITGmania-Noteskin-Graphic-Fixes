@@ -45,7 +45,7 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -The same active roll bottomcap fix as Cel as they use the same roll graphics.
 
--Added the white fantastic graphic and fallback explosion file from Metal for consistency.
+-Added the white fantastic graphic and fallback explosion files from Metal for consistency: https://github.com/itgmania/itgmania/commit/18179d95cb66b2061c81b467535c6dcdfb8a55a6
 
 -Added the same lift code that Peter added to Metal also for consistency: https://github.com/itgmania/itgmania/commit/18179d95cb66b2061c81b467535c6dcdfb8a55a6
 
