@@ -5,7 +5,7 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -----Cel-----
 
--Redrew the hold bottomcaps so they aren't jagged and better match the bodies.
+-Redrew the hold bottomcaps so they aren't jagged and better match the bodies. Update: They have been officially implemented in ITGmania and will show up next release.
 
 -Fixed the hold's slight gradient mismatches at the top loop point.
 
@@ -15,7 +15,7 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -Made all hold graphics tile more invisibly. They're not perfect as the gradients are exceptionally hard to match and make them have the feel of the originals, but it's way less noticeable.
 
--The same active roll bottomcap fix as Cel as they use the same roll graphics. (Note that this does not fix the bug that causes them to not glow properly. I'm at a loss why it occurs because it uses the exact same active bottomcap code as Cel and Metal, Robot and Vivid which all work fine.)
+-The same active roll bottomcap fix as Cel as they use the same roll graphics.
 
 -----DDR Rainbow-----
 
@@ -23,7 +23,7 @@ So I have been working on the noteskins in my ITGMania (https://www.itgmania.com
 
 -----Enchantment-----
 
--Fixed the mines so they aren't invading each other's space so you no longer see pieces of others flop in and cleaned up the graphical cutoff where bits were rotated outside the boundary of the image. There was also some odd buggy misalignment on a few frames that I cleaned up.
+-Fixed the mines so they aren't invading each other's space so you no longer see pieces of others flop in and cleaned up the graphical cutoff where bits were rotated outside the boundary of the image. There was also some odd buggy misalignment on a few frames that I cleaned up. Update: They have been officially implemented in ITGmania and will show up next release.
 
 -Better matched the colors of the active roll bottomcap.
 
